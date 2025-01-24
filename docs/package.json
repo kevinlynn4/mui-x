@@ -47,7 +47,7 @@
     "@mui/x-tree-view": "workspace:*",
     "@react-spring/web": "^9.7.5",
     "@tanstack/query-core": "^5.64.2",
-    "ast-types": "^0.14.2",
+    "ast-types": "^0.16.0",
     "autoprefixer": "^10.4.20",
     "babel-plugin-module-resolver": "^5.0.2",
     "babel-plugin-optimize-clsx": "^2.6.2",
